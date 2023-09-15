@@ -26,9 +26,7 @@ Serve como um facilitador que mostra todas as distâncias entre as capitais bras
 
 # Tecnologias utilizadas
 
-## CSS
-
-## HTML5
+Foram utilizadas tecnologias de HTML e CSS.
 
 ### Table
 
